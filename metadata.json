@@ -1,0 +1,6 @@
+{
+  "name": "Gelir & Gider Bütçe Takip",
+  "description": "Modern, minimalist ve PWA destekli kişisel bütçe, gelir-gider ve tasarruf takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
